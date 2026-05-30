@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reactrepo/static/css/main.7f4dc822.css",
-    "main.js": "/reactrepo/static/js/main.c9ee0be0.js",
+    "main.js": "/reactrepo/static/js/main.8e7dbf37.js",
     "index.html": "/reactrepo/index.html",
     "main.7f4dc822.css.map": "/reactrepo/static/css/main.7f4dc822.css.map",
-    "main.c9ee0be0.js.map": "/reactrepo/static/js/main.c9ee0be0.js.map"
+    "main.8e7dbf37.js.map": "/reactrepo/static/js/main.8e7dbf37.js.map"
   },
   "entrypoints": [
     "static/css/main.7f4dc822.css",
-    "static/js/main.c9ee0be0.js"
+    "static/js/main.8e7dbf37.js"
   ]
 }
